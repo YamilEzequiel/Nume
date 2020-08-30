@@ -16,4 +16,5 @@ class Account extends Model
         'title',
         'number',
     ];
+
 }
